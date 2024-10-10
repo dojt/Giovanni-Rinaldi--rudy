@@ -1,5 +1,6 @@
 /*  LAST EDIT: Fri Sep 29 17:58:46 1995 by Christoph Helmberg (kombi8!bzfhelmb)  */
 /* -------------------------- gb_lib.c -------------------- */
+#include <stdlib.h>
 #include <stdio.h>
 #ifdef SYSV
 #include <string.h>

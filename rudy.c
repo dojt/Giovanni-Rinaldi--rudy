@@ -1,4 +1,5 @@
 /*  LAST EDIT: Fri Oct 25 09:23:12 1996 by Christoph Helmberg (kombi12!bzfhelmb)  */
+#include <stdlib.h>
 #include <stdio.h>
 #ifdef SYSV
 #include <string.h>
@@ -122,6 +123,9 @@ extern long gb_flip_cycle ();
 #define gb_next_rand() (*gb_fptr>=0?*gb_fptr--:gb_flip_cycle())
 #define max_stack 10
 #define is(a) !strcmp(argv[argp],a)
+
+#include "gb_lib.h"
+
 
 typedef struct {
   long            i, j, k;
