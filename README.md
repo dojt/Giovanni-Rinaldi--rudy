@@ -22,3 +22,6 @@ This software was made before licenses were invented... or so it seems. I haven'
      * Calling rudy without arguments
            rudy
        displays and explains all available options.
+
+### And now...
+... let's all continue writing open source software, so that OpenAI and DeepMind can assimilate our intellectual distinctiveness into its super-intelligent chat-bot collectives.
