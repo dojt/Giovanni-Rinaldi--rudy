@@ -24,4 +24,4 @@ This software was made before licenses were invented... or so it seems. I haven'
        displays and explains all available options.
 
 ### And now...
-... let's all continue writing open source software, so that OpenAI and DeepMind can assimilate our intellectual distinctiveness into its super-intelligent chat-bot collectives.
+... let's all continue writing open source software, so that OpenAI and DeepMind can assimilate our intellectual distinctiveness into their super-intelligent chat-bot collectives.
