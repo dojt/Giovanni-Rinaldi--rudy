@@ -10,7 +10,7 @@ The files are:
 
 This software was made before licenses were invented... or so it seems. I haven't seen conditions for sharing anywhere, so here's my best guess.
 1. Knuth writes on his website: "Public-domain sources for all programs and data of The Stanford GraphBase are freely available." I'm not actually sure whether that means that he puts the source in the public domain. Some of his works are licensed under GPL, so be careful with this.
-2. `rudy.c` — the file notes the edits by Helmberg but says nothing about the original ownership. The "law of the land" seems to be to share it in a CC-BY kind of way. Whether this means that it is actually open source software in today's meaning of the word (i.e., anything like MIT, Apache, GPL, CC-0, ...) I cannot say.
+2. `rudy.c` — the file notes the edits by Helmberg but says nothing about the original ownership. The "law of the land" seems to be to share it in a CC-BY kind of way (see the original (I think) README below). Whether this means that it is actually open source software in today's meaning of the word (i.e., anything like MIT, Apache, GPL, CC-0, ...) I cannot say.
 3. I just hope I won't get into trouble by making it available here... 🤦‍♂️
 
 ### Original README file:
